@@ -1,191 +1,204 @@
-<div align="right">
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=amitmahata&style=flat-square&label=Profile%20Views)
+<!-- HEADER WAVE / BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Amit%20Kumar%20Mahata&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%7C%20C%23%20%7C%20Node.js%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=55&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=%F0%9F%92%BB+Building+scalable+enterprise+systems+%7C+8%2B+years+of+experience;%F0%9F%94%A5+.NET+%7C+Node.js+%7C+React+%7C+Cloud+%7C+Microservices;%F0%9F%9A%80+Passionate+about+clean+code+%26+system+design" alt="Typing SVG" />
+</a>
+
+<!-- SOCIAL BADGES -->
+<br/>
+
+<a href="https://amit-mahata.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=58a6ff" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/amit-mahata">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/amitmahata">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:amitmahata@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=amitmahata&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+## 🧑‍💻 About Me
+
+> *Building scalable enterprise systems with 8+ years of hands-on experience*
+
+I'm a **Software Engineer** who thrives on turning complex business requirements into elegant, high-performance solutions. My core expertise lies in backend engineering with **.NET** and **Node.js**, but I'm equally comfortable crafting rich user experiences with **React** and **Angular**.
+
+- 🏗️ **Architecture** — Designing microservices, distributed systems & REST APIs
+- ⚡ **Backend** — C#, ASP.NET Core, Node.js, Express.js
+- 🎨 **Frontend** — React, Angular, Next.js, TypeScript
+- 🗄️ **Data** — SQL Server, MySQL, Redis, RabbitMQ
+- ☁️ **Cloud & DevOps** — Azure, GCP, Docker, Kubernetes, CI/CD
+- 🤖 **Exploring** — Generative AI, LLMs & intelligent automation
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-# 👋 Hi, I'm Amit Kumar Mahata
+### ⚙️ Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,ts,js,react,angular,nextjs,html,css&perline=11&theme=dark" alt="Languages & Frameworks" />
+</a>
 
-### Software Engineer | .NET | C# | ASP.NET Core | Node.js | React | Microservices
+### 🗄️ Databases & Messaging
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,mongodb,postgres&perline=5&theme=dark" alt="Databases & Messaging" />
+</a>
 
-<p>
-  <a href="https://amit-mahata.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amit-mahata">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amitmahata">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### ☁️ Cloud, DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,git,github,githubactions,vscode,postman,linux&perline=10&theme=dark" alt="Cloud & DevOps" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a software engineer with 8+ years of experience building scalable
-enterprise applications, REST APIs, microservices, and full-stack
-solutions.
-
-I specialize in backend development using .NET and Node.js, while
-also working with modern frontend technologies.
-
-- 🧑‍💻 Backend & Full Stack Engineer
-- ⚙️ Experienced in scalable application development
-- 🏗️ Microservices & REST API development
-- 🗄️ SQL & NoSQL databases
-- ☁️ Cloud & CI/CD
-- 🚀 Scalable and maintainable software architecture
-- 🤖 Exploring Generative AI & LLM technologies
-
----
-
-# 🛠️ Languages and Tools
-
-## 💻 Backend
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-## 🗄️ Database & Messaging
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-</p>
-
-## ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-## 🔧 Tools & Practices
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge"/>
-</p>
-
----
-
-# 🚀 What I Work On
-
-| Area | Technologies |
-|---|---|
-| **Backend** | .NET, C#, ASP.NET Core, Node.js, Express.js |
-| **Frontend** | React, Angular, Next.js, JavaScript, TypeScript |
-| **Architecture** | REST APIs, Microservices, Distributed Systems |
-| **Databases** | SQL Server, MySQL, Redis |
-| **Messaging** | RabbitMQ |
-| **Cloud** | Azure, GCP |
-| **DevOps** | Docker, Kubernetes, CI/CD, GitHub Actions |
-
----
-
-# 📌 Projects
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my experience, technical skills,
-projects and development work.
-
-🔗 **[Visit Portfolio](https://amit-mahata.vercel.app)**
-
-### 💻 GitHub Projects
-
-Explore my repositories, technical experiments and projects.
-
-🔗 **[View All Repositories](https://github.com/amitmahata?tab=repositories)**
-
----
-
-# 📊 GitHub Stats
+## 🚀 What I Work On
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amitmahata&hide_border=true"/>
+| 🏷️ Area | 🔧 Technologies |
+|:---:|:---|
+| **Backend** | `.NET` · `C#` · `ASP.NET Core` · `Node.js` · `Express.js` |
+| **Frontend** | `React` · `Angular` · `Next.js` · `TypeScript` · `JavaScript` |
+| **Architecture** | `REST APIs` · `Microservices` · `Distributed Systems` · `Event-Driven` |
+| **Databases** | `SQL Server` · `MySQL` · `Redis` · `MongoDB` · `PostgreSQL` |
+| **Messaging** | `RabbitMQ` · `Event Bus` |
+| **Cloud** | `Azure` · `GCP` · `Docker` · `Kubernetes` |
+| **DevOps** | `CI/CD` · `GitHub Actions` · `Docker Compose` |
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitmahata&hide_border=true"/>
-
-</div>
-
----
-
-# 🤝 Connect With Me
+## 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://amit-mahata.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitmahata&repo=amitmahata&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
-<a href="https://www.linkedin.com/in/amit-mahata">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/amitmahata">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
+
+<div align="center">
+
+🌐 **[Visit My Portfolio](https://amit-mahata.vercel.app)** &nbsp;•&nbsp; 📂 **[View All Repositories](https://github.com/amitmahata?tab=repositories)**
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</picture>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amitmahata&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+  <img src="https://streak-stats.demolab.com?user=amitmahata&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitmahata&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitmahata&hide_border=true&radius=12&area=true" alt="Contribution Graph" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=amitmahata&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amitmahata&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://amit-mahata.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/amit-mahata">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/amitmahata">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="mailto:amitmahata@outlook.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+💬 *Open to collaboration, freelance opportunities, and interesting open-source projects!*
+
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
+
+<div align="center">
+
+⭐ **If you find my work interesting, consider giving a star!** ⭐
 
 </div>
