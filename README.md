@@ -1,3 +1,9 @@
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=amitmahata&style=flat-square&color=58a6ff&label=Profile+Views)
+
+</div>
+
 <div align="center">
 
 <!-- HEADER WAVE / BANNER -->
@@ -5,7 +11,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=55&lines=%F0%9F%92%BB+Building+scalable+enterprise+systems+%7C+8%2B+years+of+experience;%F0%9F%94%A5+.NET+%7C+Node.js+%7C+React+%7C+Cloud+%7C+Microservices;%F0%9F%9A%80+Passionate+about+clean+code+%26+system+design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=Building+scalable+enterprise+systems;.NET+%7C+Node.js+%7C+React+%7C+Microservices;8%2B+years+of+software+engineering;Passionate+about+clean+code+%26+design" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL BADGES -->
@@ -24,9 +30,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amitmahata&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
