@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- HEADER WAVE / BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Amit%20Kumar%20Mahata&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%7C%20C%23%20%7C%20Node.js%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Amit%20Kumar%20Mahata&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20.NET%20%7C%20C%23%20%7C%20Node.js%20%7C%20React%20%7C%20Microservices&descSize=18&descAlignY=55&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -23,9 +23,6 @@
 <a href="https://www.linkedin.com/in/amit-mahata">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="https://github.com/amitmahata">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
 <a href="mailto:amitkumarmahata22@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -36,22 +33,19 @@
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## ⚡ About Me
 
-## 🧑‍💻 About Me
+> *"Turning complex requirements into resilient, high-throughput systems — one commit at a time."*
 
-> *Building scalable enterprise systems with 8+ years of hands-on experience*
+👋 **Hello world! I'm Amit Kumar Mahata** — a Senior Software Engineer with **8+ years of battle-tested experience** building enterprise-scale architectures, high-performance microservices, and sleek user experiences.
 
-I'm a **Software Engineer** who thrives on turning complex business requirements into elegant, high-performance solutions. My core expertise lies in backend engineering with **.NET** and **Node.js**, but I'm equally comfortable crafting rich user experiences with **React** and **Angular**.
-
-- 🏗️ **Architecture** — Designing microservices, distributed systems & REST APIs
-- ⚡ **Backend** — C#, ASP.NET Core, Node.js, Express.js
-- 🎨 **Frontend** — React, Angular, Next.js, TypeScript
-- 🗄️ **Data** — SQL Server, MySQL, Redis, RabbitMQ
-- ☁️ **Cloud & DevOps** — Azure, GCP, Docker, Kubernetes, CI/CD
-- 🤖 **Exploring** — Generative AI, LLMs & intelligent automation
-
-<br clear="both"/>
+- 🔭 **What I'm doing:** Architecting cloud-native microservices & event-driven distributed systems
+- 💼 **Core Superpowers:** Backend mastery in **.NET / C#** & **Node.js**, coupled with modern frontend craft in **React** & **Angular**
+- 🧠 **Engineering Philosophy:** Clean Architecture, DDD, rock-solid observability & sub-millisecond latencies
+- ☁️ **Cloud & Scale:** Designing robust deployments across **Azure**, **GCP**, **Docker**, and **Kubernetes**
+- 🤖 **Current Obsession:** Generative AI workflows, LLM orchestration & agentic automation
+- 💬 **Ask me about:** Microservice boundaries, distributed caching, messaging patterns & high-load tuning!
+- ⚡ **Fun Fact:** *I treat technical debt like high-interest loans — refactored before the bill arrives ☕*
 
 ---
 
@@ -65,9 +59,7 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 </a>
 
 ### 🗄️ Databases & Messaging
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,mongodb,postgres&perline=5&theme=dark" alt="Databases & Messaging" />
-</a>
+<img src="ssms.png" width="48" height="48" alt="SSMS" title="SQL Server Management Studio (SSMS)" />&nbsp;<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,mongodb&perline=5&theme=dark" alt="Databases & Messaging" /></a>
 
 ### ☁️ Cloud, DevOps & Tools
 <a href="https://skillicons.dev">
@@ -87,7 +79,7 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 | **Backend** | `.NET` · `C#` · `ASP.NET Core` · `Node.js` · `Express.js` |
 | **Frontend** | `React` · `Angular` · `Next.js` · `TypeScript` · `JavaScript` |
 | **Architecture** | `REST APIs` · `Microservices` · `Distributed Systems` · `Event-Driven` |
-| **Databases** | `SQL Server` · `MySQL` · `Redis` · `MongoDB` · `PostgreSQL` |
+| **Databases** | `Microsoft SQL Server (SSMS)` · `MySQL` · `Redis` · `MongoDB` |
 | **Messaging** | `RabbitMQ` · `Event Bus` |
 | **Cloud** | `Azure` · `GCP` · `Docker` · `Kubernetes` |
 | **DevOps** | `CI/CD` · `GitHub Actions` · `Docker Compose` |
@@ -101,7 +93,7 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 <div align="center">
 
 <a href="https://amit-mahata.vercel.app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitmahata&repo=amitmahata&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=amitmahata&repo=amitmahata&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -110,7 +102,7 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 
 <div align="center">
 
-🌐 **[Visit My Portfolio](https://amit-mahata.vercel.app)** &nbsp;•&nbsp; 📂 **[View All Repositories](https://github.com/amitmahata?tab=repositories)**
+🌐 **[Visit My Portfolio](https://amit-mahata.vercel.app)**
 
 </div>
 
@@ -121,13 +113,13 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=amitmahata&show_icons=true&hide_border=true&border_radius=12&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amitmahata&layout=compact&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </picture>
 
 </div>
@@ -152,8 +144,8 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amitmahata&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=amitmahata&hide_border=true&radius=12&area=true" alt="Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=amitmahata&theme=tokyo-night&hide_border=true&radius=12&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img width="95%" src="https://github-activity-graph.vercel.app/graph?username=amitmahata&hide_border=true&radius=12&area=true" alt="Contribution Graph" />
 </picture>
 
 </div>
@@ -165,8 +157,8 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=amitmahata&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-  <img src="https://github-profile-trophy.vercel.app/?username=amitmahata&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-unserori.vercel.app/?username=amitmahata&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=amitmahata&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
 </picture>
 
 </div>
@@ -182,9 +174,6 @@ I'm a **Software Engineer** who thrives on turning complex business requirements
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/amit-mahata">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://github.com/amitmahata">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
 <a href="mailto:amitmahata@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
