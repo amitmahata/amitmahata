@@ -17,7 +17,7 @@
 <!-- SOCIAL BADGES -->
 <br/>
 
-<a href="https://amit-mahata.vercel.app">
+<a href="https://amitmahata.com">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=58a6ff" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/amit-mahata">
