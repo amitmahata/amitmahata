@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<a href="https://amit-mahata.vercel.app">
+<a href="https://amitmahata.com/">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=amitmahata&repo=amitmahata&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-🌐 **[Visit My Portfolio](https://amit-mahata.vercel.app)**
+🌐 **[Visit My Portfolio](https://amitmahata.com/)**
 
 </div>
 
@@ -169,7 +169,7 @@
 
 <div align="center">
 
-<a href="https://amit-mahata.vercel.app">
+<a href="https://amitmahata.com/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Portfolio"/>
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/amit-mahata">
